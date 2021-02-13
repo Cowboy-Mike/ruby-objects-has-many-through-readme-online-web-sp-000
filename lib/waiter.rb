@@ -1,5 +1,4 @@
 class Waiter
-class Waiter
  
   attr_accessor :name, :yrs_experience
  
@@ -15,5 +14,4 @@ class Waiter
     @@all
   end
  
-end
 end
